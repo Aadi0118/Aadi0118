@@ -8,7 +8,8 @@
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sinhaaditya0110@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-link-here)
   
-  [![](https://komarev.com/ghpvc/?username=Aadi0118&icon=0&color=0&style=flat-square)](https://visitcount.itsvg.in)
+  <!-- Profile Views Counter (FIXED COLOR) -->
+  [![](https://komarev.com/ghpvc/?username=Aadi0118&style=flat-square&color=58A6FF)](https://github.com/Aadi0118)
 
 </div>
 
@@ -16,10 +17,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on https://github.com/Aadi0118/restaurant-website.git
-- 🌱 I’m currently learning Full Stack Development.
-- 💬 Ask me about Java, React, Full-Stack Development, IoT, Python and AI.
-- ⚡ Fun fact: I love optimizing code while listening to phonk and EDM soundtracks!
+- 🔭 I’m currently working on **[Insert your current project name here]**
+- 🌱 I’m currently learning **[Insert framework/language, e.g., Cloud Computing, System Design]**
+- 👯 I’m looking to collaborate on **[Insert open-source projects or interests]**
+- 💬 Ask me about **Java, React, Full-Stack Development, and IoT**
+- ⚡ Fun fact: **[Insert a fun fact, e.g., I love optimizing code while listening to game soundtracks!]**
 
 ---
 
@@ -49,8 +51,8 @@
 
 <div align="center">
   
-  <!-- Commit Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0118&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Aditya's GitHub Activity Graph" width="100%" />
+  <!-- Commit Activity Graph (Added Cache-Busting &v=1) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0118&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&v=1" alt="Aditya's GitHub Activity Graph" width="100%" />
 
   <br/><br/>
 
@@ -60,8 +62,8 @@
 
   <br/><br/>
   
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Aadi0118&theme=dark&hide_border=true" alt="Aditya's Streak Stats" width="100%" />
+  <!-- Streak Stats (Added Cache-Busting &v=1) -->
+  <img src="https://streak-stats.demolab.com/?user=Aadi0118&theme=dark&hide_border=true&v=1" alt="Aditya's Streak Stats" width="100%" />
   
 </div>
 
@@ -70,14 +72,14 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadi0118&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Aditya's Trophies" width="100%" />
+  <!-- Trophies (Added Cache-Busting &v=1) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Aadi0118&theme=radical&no-frame=true&no-bg=true&margin-w=4&v=1" alt="Aditya's Trophies" width="100%" />
 </div>
 
 ---
 
 ## 📡 Latest Activity
 
-<!-- NOTE: To make this automated section work, you need to set up a GitHub Action. See below for details -->
 <!-- BLOG-POST-LIST:START -->
 * Setting up automated workflows... (Check back soon!)
 <!-- BLOG-POST-LIST:END -->
