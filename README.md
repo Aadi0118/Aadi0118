@@ -16,11 +16,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Insert your current project name here]**
-- 🌱 I’m currently learning **[Insert framework/language, e.g., Cloud Computing, System Design]**
-- 👯 I’m looking to collaborate on **[Insert open-source projects or interests]**
-- 💬 Ask me about **Java, React, Full-Stack Development, and IoT**
-- ⚡ Fun fact: **[Insert a fun fact, e.g., I love optimizing code while listening to game soundtracks!]**
+- 🔭 I’m currently working on https://github.com/Aadi0118/restaurant-website.git
+- 🌱 I’m currently learning Full Stack Development.
+- 💬 Ask me about Java, React, Full-Stack Development, IoT, Python and AI.
+- ⚡ Fun fact: I love optimizing code while listening to phonk and EDM soundtracks!
 
 ---
 
