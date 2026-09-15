@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hi there 👋, I'm Aditya Kumar Sinha
+  # Hello Dude How its going👋, I'm Aditya Kumar Sinha
   ### 👨‍💻 Passionate Developer | Tech Enthusiast | Lifelong Learner
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya-kumar-sinha-the-best-coder-ig/) 
