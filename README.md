@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aditya-kumar-sinha-the-best-coder-ig/) 
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/SinhaAditya0110) 
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sinhaaditya0110@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](your-portfolio-link-here)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://adityakscodes.vercel.app)
   
   <!-- Profile Views Counter (FIXED COLOR) -->
   [![](https://komarev.com/ghpvc/?username=Aadi0118&style=flat-square&color=58A6FF)](https://github.com/Aadi0118)
