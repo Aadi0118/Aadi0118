@@ -17,11 +17,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Insert your current project name here]**
-- 🌱 I’m currently learning **[Insert framework/language, e.g., Cloud Computing, System Design]**
-- 👯 I’m looking to collaborate on **[Insert open-source projects or interests]**
-- 💬 Ask me about **Java, React, Full-Stack Development, and IoT**
-- ⚡ Fun fact: **[Insert a fun fact, e.g., I love optimizing code while listening to game soundtracks!]**
+- 🔭 I’m currently working on https://shree-restaurant-seven.vercel.app/
+- 🌱 I’m currently learning Cybersecurity
+- 💬 Ask me about Java, React, Full-Stack Development, Cybersecurity stuff, Science and Rockets, Python, Games and IoT
+- ⚡ Fun fact: I love optimizing code while listening to game and EDM soundtracks
 
 ---
 
